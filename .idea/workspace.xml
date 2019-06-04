@@ -1,7 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bc1704e6-9a24-4807-8cab-2220ac95a255" name="Default Changelist" comment="" />
+    <list default="true" id="8f1451d9-3d46-45cd-b5fa-679cf1c8cc67" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PointToOffer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PointToOffer.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PointToOffer/ConstructBinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PointToOffer/DuplicationInArrayNoEdit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PointToOffer/Fibonacci.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PointToOffer/FindInPartiallySortedMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PointToOffer/MinNumberInRotatedArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PointToOffer/MyStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PointToOffer/NextNodeInBinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PointToOffer/P14_CuttingRope.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PointToOffer/P15_NumberOf1InBinary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PointToOffer/P16_Power.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PointToOffer/P38_StringCombination.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PointToOffer/P38_StringPermutation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PointToOffer/P39_MoreThanHalfNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PointToOffer/PrintListInReversedOrder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PointToOffer/QueueDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PointToOffer/QueueWithTwoStacks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PointToOffer/QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PointToOffer/ReplaceSpaces.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PointToOffer/RobotMove.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PointToOffer/StackDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PointToOffer/StackWithOneQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PointToOffer/StackWithTwoQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PointToOffer/StringPathInMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PointToOffer/T40_KLeastNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PointToOffer/TraversalOfBinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PointToOffer/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/AlgorithmsOnLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/AlgorithmsOnLinkedList.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,72 +44,22 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="isMigrated" value="true" />
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
   </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/questions/ConstructBinaryTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="20" column="49" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/NextNodeInBinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/QueueWithTwoStacks.java" />
-        <option value="$PROJECT_DIR$/src/StackWithTwoQueue.java" />
-        <option value="$PROJECT_DIR$/src/Fibonacci.java" />
-        <option value="$PROJECT_DIR$/src/MinNumberInRotatedArray.java" />
-        <option value="$PROJECT_DIR$/src/TraversalOfBinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/StringPathInMatrix.java" />
-        <option value="$PROJECT_DIR$/src/RobotMove.java" />
-        <option value="$PROJECT_DIR$/src/P15_NumberOf1InBinary.java" />
-        <option value="$PROJECT_DIR$/src/Singleton.java" />
-        <option value="$PROJECT_DIR$/src/DirList.java" />
-        <option value="$PROJECT_DIR$/src/Directory.java" />
-        <option value="$PROJECT_DIR$/src/io/Directory.java" />
-        <option value="$PROJECT_DIR$/src/MyStack.java" />
-        <option value="$PROJECT_DIR$/src/ProducerConsumer.java" />
-        <option value="$PROJECT_DIR$/src/ProducerConsumer2.java" />
-        <option value="$PROJECT_DIR$/src/Test.java" />
-        <option value="$PROJECT_DIR$/src/P16_Power.java" />
-        <option value="$PROJECT_DIR$/src/ConstructBinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/P38_StringPermutation.java" />
-        <option value="$PROJECT_DIR$/src/P38_StringCombination.java" />
-        <option value="$PROJECT_DIR$/src/P39_MoreThanHalfNumber.java" />
-        <option value="$PROJECT_DIR$/src/QuickSort.java" />
-        <option value="$PROJECT_DIR$/src/T40_KLeastNumbers.java" />
-        <option value="$PROJECT_DIR$/src/structure/Node.java" />
-        <option value="$PROJECT_DIR$/src/AlgorithmsOnLinkedList.java" />
-        <option value="$PROJECT_DIR$/src/P14_CuttingRope.java" />
-        <option value="$PROJECT_DIR$/src/questions/P39_MoreThanHalfNumber.java" />
-        <option value="$PROJECT_DIR$/src/questions/T40_KLeastNumbers.java" />
-        <option value="$PROJECT_DIR$/src/questions/DuplicationInArrayNoEdit.java" />
-        <option value="$PROJECT_DIR$/src/questions/Fibonacci.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/TraversalOfBinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/questions/StringPathInMatrix.java" />
-        <option value="$PROJECT_DIR$/src/questions/ConstructBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/AlgorithmsOnLinkedList.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="826" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -87,31 +71,25 @@
         <subPane>
           <expand>
             <path>
-              <item name="PointToOffer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PointToOffer" type="462c0819:PsiDirectoryNode" />
+              <item name="pointToOffer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pointToOffer" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="PointToOffer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PointToOffer" type="462c0819:PsiDirectoryNode" />
+              <item name="pointToOffer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pointToOffer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="PointToOffer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PointToOffer" type="462c0819:PsiDirectoryNode" />
+              <item name="pointToOffer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pointToOffer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="algorithms" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="PointToOffer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PointToOffer" type="462c0819:PsiDirectoryNode" />
+              <item name="pointToOffer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pointToOffer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="questions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PointToOffer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PointToOffer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="structure" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -121,13 +99,12 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554882570223" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -141,49 +118,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.T40_KLeastNumbers">
-    <configuration name="ConstructBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="questions.ConstructBinaryTree" />
-      <module name="PointToOffer" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P38_StringCombination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="questions.P38_StringCombination" />
-      <module name="PointToOffer" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P38_StringPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="questions.P38_StringPermutation" />
-      <module name="PointToOffer" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P39_MoreThanHalfNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="questions.P39_MoreThanHalfNumber" />
-      <module name="PointToOffer" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="T40_KLeastNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="questions.T40_KLeastNumbers" />
-      <module name="PointToOffer" />
+  <component name="RunManager">
+    <configuration name="AlgorithmsOnLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithms.AlgorithmsOnLinkedList" />
+      <module name="pointToOffer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.T40_KLeastNumbers" />
-        <item itemvalue="Application.P39_MoreThanHalfNumber" />
-        <item itemvalue="Application.P38_StringCombination" />
-        <item itemvalue="Application.P38_StringPermutation" />
-        <item itemvalue="Application.ConstructBinaryTree" />
+        <item itemvalue="Application.AlgorithmsOnLinkedList" />
       </list>
     </recent_temporary>
   </component>
@@ -192,398 +143,93 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="bc1704e6-9a24-4807-8cab-2220ac95a255" name="Default Changelist" comment="" />
-      <created>1553678292494</created>
+      <changelist id="8f1451d9-3d46-45cd-b5fa-679cf1c8cc67" name="Default Changelist" comment="" />
+      <created>1559651020262</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1553678292494</updated>
-      <workItem from="1553678293712" duration="1554000" />
-      <workItem from="1553685669506" duration="7118000" />
-      <workItem from="1553740268638" duration="631000" />
-      <workItem from="1553742520232" duration="6250000" />
-      <workItem from="1554082281913" duration="40000" />
-      <workItem from="1554122051263" duration="6176000" />
-      <workItem from="1554169578145" duration="187000" />
-      <workItem from="1554170054432" duration="49000" />
-      <workItem from="1554171071253" duration="427000" />
-      <workItem from="1554215252161" duration="3507000" />
-      <workItem from="1554360716566" duration="8717000" />
-      <workItem from="1554568866370" duration="297000" />
-      <workItem from="1554569730872" duration="4000" />
-      <workItem from="1554611327738" duration="4626000" />
-      <workItem from="1554780422939" duration="525000" />
-      <workItem from="1554823293714" duration="195000" />
-      <workItem from="1554825223743" duration="8000" />
-      <workItem from="1554857502622" duration="62000" />
-      <workItem from="1554878115824" duration="3324000" />
-      <workItem from="1556268177645" duration="83000" />
-      <workItem from="1556268353029" duration="595000" />
-      <workItem from="1556271971904" duration="46000" />
-      <workItem from="1557276840867" duration="44000" />
-      <workItem from="1558959344340" duration="21009000" />
-      <workItem from="1559648320998" duration="1877000" />
+      <updated>1559651020262</updated>
+      <workItem from="1559651021553" duration="4083000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70417000" />
+    <option name="totallyTimeSpent" value="4083000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20277777" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32902467" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.25827813" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50053304" side_tool="true" weight="0.3290461" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32744566" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" />
-      <window_info anchor="right" id="Capture Analysis" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19527897" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.32902467" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.32608697" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32902467" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50053304" side_tool="true" weight="0.3290461" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32876712" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" />
-      <window_info anchor="right" id="Capture Analysis" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-    </layout-to-restore>
+    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Stack.java" />
-    <entry file="file://$PROJECT_DIR$/src/Tesr.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Double.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="68" column="31" selection-start-line="68" selection-start-column="31" selection-end-line="68" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StdDraw.java" />
-    <entry file="file://$PROJECT_DIR$/src/Gaussian.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Throwable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3145">
-          <caret line="637" column="16" selection-start-line="637" selection-start-column="16" selection-end-line="637" selection-end-column="16" />
-          <folding>
-            <element signature="e#26290#26291#0" expanded="true" />
-            <element signature="e#26333#26334#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="1166" column="2" lean-forward="true" selection-start-line="1166" selection-start-column="2" selection-end-line="1166" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/PointToOffer/BST.class" />
-    <entry file="file://$PROJECT_DIR$/out/production/PointToOffer/TraversalOfBinaryTree.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#6229#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StdOut.java" />
-    <entry file="file://$PROJECT_DIR$/src/StdRandomPlus.java" />
-    <entry file="file://$PROJECT_DIR$/src/io/Directory.java" />
-    <entry file="file://$PROJECT_DIR$/src/Bernoulli.java" />
-    <entry file="file://$PROJECT_DIR$/src/BST.java" />
-    <entry file="file://$PROJECT_DIR$/src/Singleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="64" column="6" selection-start-line="64" selection-start-column="6" selection-end-line="64" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="73" column="13" selection-start-line="73" selection-start-column="13" selection-end-line="73" selection-end-column="13" />
-          <folding>
-            <element signature="e#200691#200692#0" expanded="true" />
-            <element signature="e#200732#200733#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/structure/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/questions/P15_NumberOf1InBinary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/questions/P16_Power.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/questions/P38_StringCombination.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/questions/P38_StringPermutation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/questions/P14_CuttingRope.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/structure/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithms/AlgorithmsOnLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/structure/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/questions/P39_MoreThanHalfNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1372">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/questions/T40_KLeastNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1212">
-          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/questions/NextNodeInBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="62" column="6" selection-start-line="62" selection-start-column="6" selection-end-line="62" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/questions/PrintListInReversedOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/questions/ReplaceSpaces.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/questions/RobotMove.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/questions/DuplicationInArrayNoEdit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/questions/FindInPartiallySortedMatrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/questions/MinNumberInRotatedArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/questions/Fibonacci.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/questions/StringPathInMatrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/structure/QueueWithTwoStacks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="28" column="6" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/structure/StackWithTwoQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="56" column="6" selection-start-line="56" selection-start-column="6" selection-end-line="56" selection-end-column="6" />
+        <state relative-caret-position="277">
+          <caret line="112" column="44" lean-forward="true" selection-start-line="112" selection-start-column="44" selection-end-line="112" selection-end-column="44" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#2178#2179#0" expanded="true" />
+            <element signature="e#2204#2205#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/structure/MyStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DirList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ProducerConsumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ProducerConsumer2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="74" column="87" selection-start-line="74" selection-start-column="87" selection-end-line="74" selection-end-column="87" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/TraversalOfBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/questions/ConstructBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="20" column="49" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
