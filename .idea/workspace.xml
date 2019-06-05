@@ -2,39 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f1451d9-3d46-45cd-b5fa-679cf1c8cc67" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PointToOffer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PointToOffer.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PointToOffer/ConstructBinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PointToOffer/DuplicationInArrayNoEdit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PointToOffer/Fibonacci.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PointToOffer/FindInPartiallySortedMatrix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PointToOffer/MinNumberInRotatedArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PointToOffer/MyStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PointToOffer/NextNodeInBinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PointToOffer/P14_CuttingRope.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PointToOffer/P15_NumberOf1InBinary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PointToOffer/P16_Power.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PointToOffer/P38_StringCombination.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PointToOffer/P38_StringPermutation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PointToOffer/P39_MoreThanHalfNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PointToOffer/PrintListInReversedOrder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PointToOffer/QueueDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PointToOffer/QueueWithTwoStacks.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PointToOffer/QuickSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PointToOffer/ReplaceSpaces.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PointToOffer/RobotMove.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PointToOffer/StackDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PointToOffer/StackWithOneQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PointToOffer/StackWithTwoQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PointToOffer/StringPathInMatrix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PointToOffer/T40_KLeastNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PointToOffer/TraversalOfBinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PointToOffer/TreeNode.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/algorithms/AlgorithmsOnLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/AlgorithmsOnLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structure/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/Node.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,8 +13,24 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/algorithms/AlgorithmsOnLinkedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="193">
+              <caret line="179" column="20" selection-start-line="179" selection-start-column="20" selection-end-line="179" selection-end-column="20" />
+              <folding>
+                <element signature="e#2761#2762#0" expanded="true" />
+                <element signature="e#2788#2789#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -53,6 +38,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/structure/Node.java" />
         <option value="$PROJECT_DIR$/src/algorithms/AlgorithmsOnLinkedList.java" />
       </list>
     </option>
@@ -66,7 +52,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -91,11 +77,17 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="questions" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="pointToOffer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pointToOffer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="structure" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -149,57 +141,66 @@
       <option name="presentableId" value="Default" />
       <updated>1559651020262</updated>
       <workItem from="1559651021553" duration="4083000" />
+      <workItem from="1559701210667" duration="1821000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4083000" />
+    <option name="totallyTimeSpent" value="5904000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.32902467" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32902467" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32902467" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32902467" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/structure/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="50" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithms/AlgorithmsOnLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="112" column="44" lean-forward="true" selection-start-line="112" selection-start-column="44" selection-end-line="112" selection-end-column="44" />
+        <state relative-caret-position="193">
+          <caret line="179" column="20" selection-start-line="179" selection-start-column="20" selection-end-line="179" selection-end-column="20" />
           <folding>
-            <element signature="e#2178#2179#0" expanded="true" />
-            <element signature="e#2204#2205#0" expanded="true" />
+            <element signature="e#2761#2762#0" expanded="true" />
+            <element signature="e#2788#2789#0" expanded="true" />
           </folding>
         </state>
       </provider>

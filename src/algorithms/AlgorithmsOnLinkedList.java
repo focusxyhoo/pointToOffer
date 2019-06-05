@@ -100,7 +100,8 @@ public class AlgorithmsOnLinkedList {
     }
 
     /**
-     * 返回链表倒数第 k 个节点
+     * 返回链表倒数第 k 个节点。
+     * 两次遍历链表。时间复杂度 O(n^2)
      *
      * @param head
      * @param k
@@ -110,21 +111,57 @@ public class AlgorithmsOnLinkedList {
         int length = getLength(head);
         Node cur = head;
         if (k > length) return null;
-        for (int i = 0; i < length - k + 1; i++) {
+        for (int i = 1; i < length - k + 1; i++) {
             cur = cur.next;
         }
         return cur;
     }
 
+    private static int count;
 
-    public static int getLength(Node head) {
-        Node cur = head;
-        int length = 0;
-        while (cur != null) {
-            ++length;
-            cur = cur.next;
+    /**
+     * 返回链表倒数第 k 个节点。
+     * 递归。时间复杂度 O(n^2)
+     * 注意这里 count 必须是类的成员变量。
+     *
+     * @param head
+     * @param k
+     * @return
+     */
+    public static Node getLastKthNodeRecursively(Node head, int k) {
+        count = k;
+        if (head == null) return null;
+        Node cur = getLastKthNodeRecursively(head.next, k);
+        if (cur != null) {
+            return cur;
+        } else {
+            count--;
+            if (count == 0) return head;
+            return null;
         }
-        return length;
+    }
+
+    /**
+     * 返回链表倒数第 k 个节点。
+     * 利用两个指针，一次遍历。
+     *
+     * @param head
+     * @param k
+     * @return
+     */
+    public static Node getLastKthNodeOne(Node head, int k) {
+        if (head == null || k == 0) return null;
+        Node p = head, q = head;
+        for (int i = 0; i < k; i++) {
+            if (p != null) {
+                p = p.next;
+            } else return null;
+        }
+        while (p != null) {
+            p=p.next;
+            q=q.next;
+        }
+        return q;
     }
 
 
@@ -140,7 +177,23 @@ public class AlgorithmsOnLinkedList {
     }
 
     /**
-     * 打印链表 list 的节点。
+     * 返回链表的长度。一次遍历。
+     *
+     * @param head
+     * @return
+     */
+    public static int getLength(Node head) {
+        Node cur = head;
+        int length = 0;
+        while (cur != null) {
+            ++length;
+            cur = cur.next;
+        }
+        return length;
+    }
+
+    /**
+     * 打印链表的节点。
      *
      * @param head
      * @return
@@ -188,8 +241,11 @@ public class AlgorithmsOnLinkedList {
 //        System.out.print("合并有序链表 la 和 lb：");
 //        printList(head);
 
-        Node k = getLastKthNode(la, 2);
-        System.out.println("链表 la 倒数第 2 个节点是：" + k.value);
+//        Node k = getLastKthNode(la, 2);
+//        System.out.println("链表 la 倒数第 2 个节点是：" + k.value);
+        Node v = getLastKthNodeOne(la, 2);
+        System.out.println("一次遍历：链表 la 倒数第 2 个节点是：" + v.value);
+
 
     }
 }
