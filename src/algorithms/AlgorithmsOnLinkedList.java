@@ -8,8 +8,16 @@ import structure.Node;
  * date        : 2019-06-04
  * time        : 19:39
  * description : 这个类中将链表有关各问题汇总起来，给出实现方法。
- * 链表中没有头节点。
- * 原地修改，会影响原链表。
+ * 链表中没有头节点。原地修改，会影响原链表。
+ * 具体题目：
+ * 1）链表的反转
+ * 2）判断链表是否有环
+ * 2.1）返回链表环的入口
+ * 2.2）返回链表环的长度
+ * 3）合并两个有序链表
+ * 4）返回链表倒数第 k 个节点
+ * 4.1）删除链表倒数第 k 个节点
+ * 5）返回链表中间节点
  */
 public class AlgorithmsOnLinkedList {
 
@@ -158,8 +166,8 @@ public class AlgorithmsOnLinkedList {
             } else return null;
         }
         while (p != null) {
-            p=p.next;
-            q=q.next;
+            p = p.next;
+            q = q.next;
         }
         return q;
     }
@@ -173,7 +181,42 @@ public class AlgorithmsOnLinkedList {
      * @return
      */
     public static Node deleteLastKthNode(Node head, int k) {
+        if (head == null || k == 0) return null;
+        Node p = head, q = head;
+        for (int i = 0; i < k; i++) {
+            if (p != null) {
+                p = p.next;
+            } else return null;
+        }
+        Node prev = null;
+        while (p != null) {
+            p = p.next;
+            prev = q; // 保存倒数第 k 个节点的前一个节点
+            q = q.next;
+        }
+        if (prev != null) {
+            prev.next = prev.next.next;
+        } else {
+            head = head.next;
+        }
         return head;
+    }
+
+    /**
+     * 返回链表的中间节点。
+     * 上指针，一个每次走一步，另一个每次走两步。
+     *
+     * @param head
+     * @return
+     */
+    public static Node getMiddleNode(Node head) {
+        if (head == null) return null;
+        Node fast = head, slow = head;
+        while (fast.next != null && fast.next.next != null) {
+            fast=fast.next.next;
+            slow=slow.next;
+        }
+        return slow;
     }
 
     /**
@@ -243,8 +286,9 @@ public class AlgorithmsOnLinkedList {
 
 //        Node k = getLastKthNode(la, 2);
 //        System.out.println("链表 la 倒数第 2 个节点是：" + k.value);
-        Node v = getLastKthNodeOne(la, 2);
-        System.out.println("一次遍历：链表 la 倒数第 2 个节点是：" + v.value);
+        Node v = deleteLastKthNode(la, 3);
+        printList(v);
+//        System.out.println("：链表 la 倒数第 2 个节点是：" + v.value);
 
 
     }
